@@ -1,0 +1,3 @@
+/home/liujin-momenta-ubuntu/cpp/CMakeFiles/edit_cache.dir
+/home/liujin-momenta-ubuntu/cpp/CMakeFiles/rebuild_cache.dir
+/home/liujin-momenta-ubuntu/cpp/CMakeFiles/Demo.dir
