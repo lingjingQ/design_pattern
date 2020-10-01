@@ -1,0 +1,3 @@
+[submodule "testMain"]
+	path = testMain
+	url = git@github.com:lingjingQ/testMain.git
